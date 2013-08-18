@@ -1,7 +1,6 @@
 #!/bin/zsh
 
 dir=`dirname $0`
-cd $dir
 
 config=(.gitconfig .global_gitignore .tmux.conf)
 
